@@ -1,6 +1,6 @@
 # Repositórios
- Primeiro repositório versionado
+ **Primeiro repositório versionado**
 
- Repositório criando em uma aula.
+ Repositório criando em uma *aula.*
 
 Fiz alterações diretamente do meu GitHub
